@@ -1,0 +1,11 @@
+{
+  "name": "AuCoin",
+  "symbol": "AUC",
+  "type": "ERC-20",
+  "decimals": 18,
+  "description": "AuCoin is a gold-backed meme token designed to merge physical asset value with digital currency utility.",
+  "website": "https://www.truaucoin.gold",
+  "explorer": "https://etherscan.io/token/0xce34f7c64b91efbf8264aa6b8018f2493f0f3768",
+  "status": "active",
+  "tags": ["meme", "gold-backed", "ERC-20"]
+}
